@@ -1,2 +1,2 @@
-PATH=/usr/bin:/bin:/home/[USER]/bin
+PATH=/usr/bin:/bin:/home/[USER]/speedtest
 42 * * * *      monitor.sh 2>&1 > /dev/null
